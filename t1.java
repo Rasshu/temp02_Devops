@@ -1,2 +1,2 @@
-asdasdasdad
-asdasdad
+class t1{
+}
